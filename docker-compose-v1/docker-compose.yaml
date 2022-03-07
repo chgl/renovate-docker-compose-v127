@@ -1,2 +1,2 @@
 web:
-  image: nginx:1.18.0
+  image: nginx:1.21.6
